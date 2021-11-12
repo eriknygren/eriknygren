@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+oh wow you can have a readme now!
+
+🤩🤩🤩🤩🤩🤩🤩🤩🤩
+
+I'm Erik. I like Vue, Nuxt, Tailwind and (boomer alert) Ruby.
+
+[![Github Stats plz dont judge me if they are bad](https://github-readme-stats.vercel.app/api?username=eriknygren&count_private=true)](https://github.com/eriknygren)
+
 <!--
 **eriknygren/eriknygren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
