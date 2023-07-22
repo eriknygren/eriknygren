@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Erik. I like Vue, Nuxt, Tailwind and (boomer alert) Ruby.
+I'm Erik. I like Vue, Nuxt, Neovim and (boomer alert) Ruby.
 
 [Check out my portfolio site](https://eriknygren.dev/)
 
